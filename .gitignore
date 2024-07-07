@@ -1,0 +1,10 @@
+geoserver
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.txt
+*.xml
+*.csv
+*.pdf
