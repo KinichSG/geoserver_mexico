@@ -8,3 +8,4 @@ geoserver
 *.xml
 *.csv
 *.pdf
+!requirements.txt
